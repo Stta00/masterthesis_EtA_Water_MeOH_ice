@@ -1,6 +1,11 @@
 # remove all png and pdf
 *.png
 *.pdf
+
+# dont track pycache
+__pycache__/
+*.py[cod]
+
 Acetylcholine.py
 test.spectra_Choline.py
 test.spectra_Ethanolamine.py
