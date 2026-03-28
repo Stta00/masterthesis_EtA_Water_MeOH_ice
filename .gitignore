@@ -1,3 +1,9 @@
 # remove all png and pdf
 *.png
 *.pdf
+Acetylcholine.py
+test.spectra_Choline.py
+test.spectra_Ethanolamine.py
+test.spectra_Methanol.py
+test.spectra_water.py
+EtA_H2O_MeOH_simulation2_with_spectra.ipynb
