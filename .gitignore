@@ -12,3 +12,6 @@ test.spectra_Ethanolamine.py
 test.spectra_Methanol.py
 test.spectra_water.py
 EtA_H2O_MeOH_simulation2_with_spectra.ipynb
+Choline_EtA_H2O_Choline_comp.py
+Choline_Irr.py
+Choline_Irr_ZOOM.py
